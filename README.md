@@ -3,6 +3,7 @@
 This repository contains governance and proof documents relating to the public software fallback and project stewardship arrangement for the Set-OutlookSignatures Benefactor Circle add-on.
 
 It contains:
+
 - the public covenant;
 - technical specifications;
 - proof-of-existence records;
