@@ -1,0 +1,18 @@
+{
+  "productName": "Set-OutlookSignatures Benefactor Circle add-on",
+  "version": "v4.32.0",
+  "createdUtc": null,
+  "proofId": "v4.32.0",
+  "depositArchiveFileName": "Set-OutlookSignatures-Benefactor-Circle-add-on_v4.32.0_deposit.zip",
+  "sha256": "d10192cb373e5e4be92de9f52a883765ec3837e8b9405b4dc4c4b4f434ad07d1",
+  "includedScope": [
+    "Category A",
+    "Category B"
+  ],
+  "excludedScope": [
+    "Category C"
+  ],
+  "canonicalProjectRepository": "https://github.com/Set-OutlookSignatures/Set-OutlookSignatures",
+  "proofRepository": "https://github.com/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow",
+  "notes": "Public proof of existence only. No source code is intended for publication from this output folder unless a trigger has taken effect."
+}
